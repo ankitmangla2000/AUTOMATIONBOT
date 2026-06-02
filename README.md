@@ -24,7 +24,7 @@ playwright install
 ### 2. `.env` File Check karein
 Project folder ke andar `.env` file automatically bani huyi hai jisme aapke credentials hain:
 ```env
-NAUKRI_EMAIL=tsonukumar715@gmail.com
+NAUKRI_EMAIL=dummy@gmail.com
 NAUKRI_PASSWORD=847201
 ```
 *Note: Agar aapko kabhi email ya password change karna ho, toh aap is `.env` file ko open karke credentials badal sakte hain.*
